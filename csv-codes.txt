@@ -1,0 +1,10 @@
+IP:port/meta.csv
+serial;name;mac-addr;ip-addr;?;3phase;2strings;power;?;?;?;languageName;???
+IP:port/initlog.txt 
+dateOfFirstRecord;YYYYMM;YYYY
+IP:port/realtime.csv 
+unixtime;DC1(V) * 65535 / 1600;DC2(V) * 65535 / 1600;AC1(V) * 65535 / 1600;AC2(V) * 65535 / 1600;AC3(V) * 65535 / 1600;DC1(A) * 65535 / 200;DC2(A) * 65535 / 200;AC1(A) * 65535 / 200;AC2(A) * 65535 / 200;AC3(A) * 65535 / 200; AC(W) * 65535 / 100000;temperature*100;STATUS
+IP:port/YYYYMMDD.CSV 
+IP:port/YYYYMM.CSV
+IP:port/pstaenUS.txt
+IP:port/eternal.csv 
